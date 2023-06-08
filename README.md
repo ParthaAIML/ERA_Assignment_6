@@ -59,7 +59,7 @@ The output of this convolution block is flattened and passed through fully conne
 
 Relu activation is used followed by batch normalization. The details of the network is given below
 
-Total number of parameters used is `**17,920**`
+Total number of parameters used is **`17,920`** 
  
  
  ![model_summary](https://github.com/ParthaAIML/ERA_Assignment_6/assets/100613266/e0386845-d481-463b-9364-87078abe6f04)
@@ -67,24 +67,20 @@ Total number of parameters used is `**17,920**`
  
 ### Execution info
 ---
-Depending on the preference, the model can be run in google colab or in local system.The `S5.ipynb` notebook has all the code required to run the model
-
 The repository can be cloned using the below git command
 
-`git clone https://github.com/ParthaAIML/ERA_Assignment_5`
+`git clone https://github.com/ParthaAIML/ERA_Assignment_6`
 
-The uesr needs to change the directoty with the below code before importing the functionalities from `model.py` and `utils.py`
+The user needs to run the **`S6-Assignment-Solution.ipynb`** notebook to get the desired output
 
-`%cd /content/gdrive/My\Drive/Assignment_5` 
 
 ### Sample output
 ---
-*  **Accuracy and Loss Plots**
+*  **Results**
+`The accuracy of 99.41 has been acheived with 19 epoch only`
 
 
 
-
-
-
+![results](https://github.com/ParthaAIML/ERA_Assignment_6/assets/100613266/3f52c70f-1544-4094-9bcb-a9bfea629cc5)
 
 
