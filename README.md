@@ -30,7 +30,6 @@ The below requirements needs to be installed before running the code
 #### Requirements
 * `torch`
 * `torchvision`
-* `matplotlib`
 * `torchsummary`
 
 ### Files info
