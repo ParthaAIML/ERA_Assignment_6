@@ -82,7 +82,7 @@ The user needs to run the **`S6-Assignment-Solution.ipynb`** notebook to get the
 *  **Results**
 
 
-`The accuracy of 99.41 has been acheived with 19 epoch only`
+The accuracy of **`99.41`** has been acheived with **`19`** epoch only
 
 
 
