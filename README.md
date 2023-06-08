@@ -60,8 +60,9 @@ The output of this convolution block is flattened and passed through fully conne
 Relu activation is used followed by batch normalization. The details of the network is given below
 
 Total number of parameters used is **`17,920`** 
+
  
-The training of the model is done with `Stochastic Gradient Descent Optimizer(SGD)` with a learning rate of `0.01` and momentum of `0.85`. The batch size used here is 128
+The training of the model is done with **`Stochastic Gradient Descent Optimizer(SGD)`** with a learning rate of **`0.01`** and momentum of **`0.85`**. The batch size used here is **`128`**
 
  
  ![model_summary](https://github.com/ParthaAIML/ERA_Assignment_6/assets/100613266/e0386845-d481-463b-9364-87078abe6f04)
@@ -79,6 +80,8 @@ The user needs to run the **`S6-Assignment-Solution.ipynb`** notebook to get the
 ### Sample output
 ---
 *  **Results**
+
+
 `The accuracy of 99.41 has been acheived with 19 epoch only`
 
 
