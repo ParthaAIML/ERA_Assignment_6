@@ -23,6 +23,9 @@
 
 `The below points are good to have but not mendatory`
 
+* Have used BN, Dropout,
+* (Optional) a fully connected layer, have used GAP
+
 ### Setup
 ---
 The below requirements needs to be installed before running the code
